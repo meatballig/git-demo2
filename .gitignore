@@ -1,4 +1,9 @@
 *.log
 
-/TODO
+*.db
+
+/target
+
+/bin
+
 
